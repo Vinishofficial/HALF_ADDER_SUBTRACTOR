@@ -2,8 +2,8 @@
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
-### Developed by : HARIPRASHAAD RA
-### REG NO : 212223040060
+### Developed by : VINISHRAJ R
+### REG NO : 212223230243
 
 **AIM:**
 
